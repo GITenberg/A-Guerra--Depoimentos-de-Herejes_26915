@@ -1,0 +1,32 @@
+_repo: A-Guerra--Depoimentos-de-Herejes_26915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, Jaime de Magalhães
+    aliases:
+    - De Magalhães Lima, Jaime
+    - Magalhães Lima, Jaime de
+    - Lima, Jayme de Magalhães
+    - Lima, Jaime de Magalhaes
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '9720'
+    url: http://www.gutenberg.org/2009/agents/9720
+    wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
+description: ''
+gutenberg_issued: '2008-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26915'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+title: 'A Guerra: Depoimentos de Herejes'
+url: http://www.gutenberg.org/ebooks/26915
